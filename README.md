@@ -13,3 +13,8 @@ email features: ['to_messages', 'email_address', 'from_poi_to_this_person', 'fro
 POI label: [‘poi’] (boolean, represented as integer) <-- Target Variable / Feature of Interest
 
 This project followed this particular [rubric](https://docs.google.com/document/d/1NDgi1PrNJP7WTbfSUuRUnz8yzs5nGVTSzpO7oeNTEWA/pub?embedded=true).
+
+
+> An introductory information about financial information can be found at the file [enron61702insiderpay.pdf](https://github.com/praxitelisk/NDDA-P5-Identify-Fraud-From-Enron-Email/blob/master/enron61702insiderpay.pdf)
+
+
