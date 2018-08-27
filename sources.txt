@@ -1,0 +1,23 @@
+Sources - Links
+
+https://en.wikipedia.org/wiki/Enron_scandal
+
+http://seaborn.pydata.org/
+
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html
+https://www.programcreek.com/python/example/91149/sklearn.model_selection.StratifiedShuffleSplit
+http://scikit-learn.org/stable/modules/svm.html
+http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+http://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html#sphx-glr-auto-examples-model-selection-plot-confusion-matrix-py
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
